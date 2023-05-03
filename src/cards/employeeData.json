@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Mohammad",
+    "timeIn": "9:00 AM",
+    "timeOut": "5:00 PM"
+  },
+  {
+    "name": "Sohail",
+    "timeIn": "00:30 AM",
+    "timeOut": "4:30 PM"
+  },
+  {
+    "name": "Anas",
+    "timeIn": "9:15 AM",
+    "timeOut": "12:15 PM"
+  },
+  {
+    "name": "Ahmed",
+    "timeIn": "9:00 AM",
+    "timeOut": "5:00 PM"
+  },
+  {
+    "name": "Ansari",
+    "timeIn": "8:30 AM",
+    "timeOut": "4:30 PM"
+  },
+  {
+    "name": "Nedal",
+    "timeIn": "",
+    "timeOut": ""
+  }
+  ,
+  {
+    "name": "Anas",
+    "timeIn": "9:15 AM",
+    "timeOut": "12:15 PM"
+  },
+  {
+    "name": "Ahmed",
+    "timeIn": "9:00 AM",
+    "timeOut": "5:00 PM"
+  },
+  {
+    "name": "Ansari",
+    "timeIn": "8:30 AM",
+    "timeOut": "4:30 PM"
+  },
+  {
+    "name": "Nedal",
+    "timeIn": "",
+    "timeOut": ""
+  }
+]

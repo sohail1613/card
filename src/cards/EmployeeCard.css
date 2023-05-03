@@ -1,0 +1,25 @@
+@media (min-width: 300px)
+{.container{
+    max-width: 300px;
+}}
+.container{
+    display: flex;
+    flex-direction: row !important;
+}
+
+.cardContainer{
+    background-color: rgb(154, 177, 196);
+    width: 300px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 20px; 
+}
+
+.card{
+    height: 95px;
+    width: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
